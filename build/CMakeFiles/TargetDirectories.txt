@@ -1,0 +1,4 @@
+/Users/itsumaden/C++/Task/build/CMakeFiles/rebuild_cache.dir
+/Users/itsumaden/C++/Task/build/CMakeFiles/edit_cache.dir
+/Users/itsumaden/C++/Task/build/CMakeFiles/Task.Tests.dir
+/Users/itsumaden/C++/Task/build/CMakeFiles/Task.dir
